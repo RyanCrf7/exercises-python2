@@ -1,0 +1,4 @@
+num1=int(input("Digite o primeiro numero:"))
+num3=float(input("Digite o terceiro numero:"))
+result= 3*num1 + num3
+print(f'o resultado é: {result}')
